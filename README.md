@@ -1,8 +1,7 @@
+***NOTE:** This fork is just a cleanup to remove the samples and utils which are unnecessary for the API.*
+
 LightweightVK [![Build Status](https://github.com/corporateshark/lightweightvk/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/corporateshark/lightweightvk/actions)
 ========================
-
-*NOTE: This fork is just a cleanup to remove the samples and utils which are unnecessary for the API.*
-
 LightweightVK is a deeply refactored **bindless-only** fork of [IGL](https://github.com/facebook/igl) which is designed to run on top of **Vulkan 1.3** with optional **mesh shaders** and **ray tracing** support.
 
 The main goals of LightweightVK:
