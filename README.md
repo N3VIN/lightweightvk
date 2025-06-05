@@ -1,4 +1,4 @@
-***NOTE:** This fork is just a cleanup to remove the samples and utils which are unnecessary for the API.*
+***NOTE:** This fork is just a cleanup of the original repo to remove the samples and utils which are unnecessary for the core API.*
 
 LightweightVK [![Build Status](https://github.com/corporateshark/lightweightvk/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/corporateshark/lightweightvk/actions)
 ========================
