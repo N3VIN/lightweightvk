@@ -36,18 +36,11 @@ https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook/blob/master/LI
 3D-Graphics-Rendering-Cookbook (2nd Edition)
 https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook-Second-Edition/blob/master/LICENSE
 
-Amazon Lumberyard Bistro
-https://developer.nvidia.com/orca/amazon-lumberyard-bistro
-https://casual-effects.com/data/
-
 bc7env
 https://github.com/richgel999/bc7enc/blob/master/LICENSE
 
 Bootstrap
 https://github.com/corporateshark/bootstrapping/blob/master/LICENSE
-
-Damaged Helmet
-https://github.com/KhronosGroup/glTF-Sample-Models/blob/master/2.0/DamagedHelmet/README.md
 
 EGL
 https://github.com/McNopper/EGL/blob/master/EGL/LICENCE.txt
